@@ -20,6 +20,7 @@ I work as Technical Writer in the following teams:
 * Music (both listening and composing)
 * [Reading](https://app.thestorygraph.com/profile/2612f5bf-95f0-43f2-9f3a-6eb4767835a8), mostly biographies and books about philosophy, music, and history
 * [Video](https://letterboxd.com/pivic)
+* Animals
 
 # Reach out to me if
 
