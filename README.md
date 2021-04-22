@@ -18,7 +18,7 @@ I work as Technical Writer in the following teams:
 # I privately love
 
 * Music (both listening and composing)
-* [Reading](https://app.thestorygraph.com/profile/pivic), mostly biographies and books about philosophy, music, and history
+* Reading, mostly biographies and books about philosophy, music, and history. I review books [here](https://niklas.reviews).
 * [Video](https://letterboxd.com/pivic)
 * Animals
 * Tech (especially [static-site generators](https://www.gatsbyjs.com/docs/glossary/static-site-generator/)
