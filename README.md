@@ -18,9 +18,10 @@ I work as Technical Writer in the following teams:
 # I privately love
 
 * Music (both listening and composing)
-* [Reading](https://app.thestorygraph.com/profile/2612f5bf-95f0-43f2-9f3a-6eb4767835a8), mostly biographies and books about philosophy, music, and history
+* [Reading](https://app.thestorygraph.com/profile/pivic), mostly biographies and books about philosophy, music, and history
 * [Video](https://letterboxd.com/pivic)
 * Animals
+* Tech (especially [static-site generators](https://www.gatsbyjs.com/docs/glossary/static-site-generator/)
 
 # Reach out to me if
 
